@@ -19,16 +19,13 @@ Um projeto simples de sorteio de amigo secreto, feito com **HTML, CSS e JavaScri
 
 📦 Como Baixar e Executar o Projeto
 Clone o repositório:
-sh
-Copiar
-Editar
 git clone https://github.com/LiliBarros/amigo-secreto.git
 Abra o arquivo index.html no navegador.
 
 💡 Melhorias Futuras
-Melhorar o design com CSS
-Adicionar um botão para remover amigos da lista
-Implementar um modo escuro
+- Melhorar o design com CSS
+- Adicionar um botão para remover amigos da lista
+- Implementar um modo escuro
 
 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se livre para modificá-lo e melhorá-lo!
