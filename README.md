@@ -22,7 +22,7 @@ Clone o repositório:
 sh
 Copiar
 Editar
-git clone https://github.com/LiliBarros/challenge_amigo_secreto.git
+git clone https://github.com/LiliBarros/amigo-secreto.git
 Abra o arquivo index.html no navegador.
 
 💡 Melhorias Futuras
